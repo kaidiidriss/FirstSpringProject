@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EventTracker
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Idriss
+Implementation-Vendor-Id: org.idriss
+Build-Jdk: 1.8.0_31
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: demo.EventTrackerApplication
+
